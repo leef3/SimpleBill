@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleBill</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="add_expense">Expense</string>
+    <string name="add_income">Income</string>
+
+</resources>
